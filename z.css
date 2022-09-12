@@ -1,0 +1,15 @@
+#Table{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+table{
+    background-color: gray;
+    width: 298px;
+    height: 350px;
+    margin-left: 200px;
+    margin-top: 5px;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    text-align: center;
+}

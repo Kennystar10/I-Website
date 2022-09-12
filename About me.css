@@ -1,0 +1,220 @@
+body{
+    background-color: rgb(22, 21, 21);
+}
+
+#M{
+    color: orange;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+#section{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    margin-left: 680px;
+    margin-top: -10px;
+}
+
+li{
+    display: inline;
+    margin-left: 30px;
+}
+
+#AM{
+    text-decoration: none;
+    color: white;
+}
+
+#CM{
+    text-decoration: none;
+    color: white;
+}
+
+#C{
+    text-decoration: none;
+    color: white;
+}
+
+#L{
+    border: solid 0px ;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, orange , crimson);
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+    text-decoration: none;
+    color: white;
+}
+
+#SU{
+    border: solid 2px crimson;
+    border-radius: 28px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+#pic{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+#bio{
+    float: right;
+    margin-top: -225px;
+    margin-right: 170px;
+}
+
+#AM2{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#AO{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+#info{
+    color: gray;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
+
+#Text{
+    text-align: center;
+}
+
+#arrow{
+    margin-left: 570px;
+    width: 200px;
+    height: 250px;
+}
+
+#GD{
+    color: aliceblue;
+    font-size: 23px;
+    font-family: Verdana, sans-serif;
+    font-weight: 600;
+    margin-top: -100px;
+}
+
+#goals{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+#grad{
+    width: 200px; 
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 570px;
+}
+
+#g1{
+    color: aliceblue;
+    font-size: 23px;
+    font-family: Verdana, sans-serif;
+    font-weight: 600;
+    margin-top: -100px;
+}
+
+#g2{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#g3{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+#g4{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#g5{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+#job{
+    width: 200px; 
+    height: 250px;
+    margin-left: 570px;
+    margin-top: 30px;
+}
+
+#je{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    margin-top: -100px;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+#j1{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+#j2{
+    color: aliceblue;
+    font-family: Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+#hobby{
+    margin-top: 30px;
+}
+
+#h1{
+    color: aliceblue;
+    font-size: 23px;
+    font-family: Verdana, sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+#h2{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#h3{
+    color: orange;
+    font-family: Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
